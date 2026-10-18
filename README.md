@@ -6,7 +6,7 @@ I like products where the details matter: accessible UI, real-time data, and log
 
 ## What I'm working on
 
-- **Arena**, a native iOS fitness app for groups and competition. Live on TestFlight.
+- **Arena**, a native iOS fitness app for groups and competition. Live on [TestFlight](https://testflight.apple.com/join/HphDQkhG).
 
 ## Project
 
