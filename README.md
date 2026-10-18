@@ -12,12 +12,12 @@ I like products where the details matter: accessible UI, real-time data, and log
 
 | Project | What it is | What I built |
 |---|---|---|
-| **Arena** | iOS app where friends compete on workouts | Swift/UIKit, HealthKit for passive workout sync, Firebase for auth, leaderboards, and push. Fitness groups with persistent leaderboards, shared activity feeds, and in-group nudging. A custom competition engine that maps HealthKit data to configurable point rules, with pre-built and user-defined rulesets. 20 beta users so far. |
+| **Arena** | iOS app where friends compete on workouts | SwiftUI, HealthKit for passive workout sync, Firebase for auth, leaderboards, and push. Fitness groups with persistent leaderboards, shared activity feeds, and in-group nudging. A custom competition engine that maps HealthKit data to configurable point rules, with pre-built and user-defined rulesets. 26 beta accounts so far. |
 
 ## Stack
 
 - **Languages:** TypeScript, JavaScript, Java, Python, Swift, SQL
-- **Frontend and mobile:** React, Swift/UIKit, HealthKit
+- **Frontend and mobile:** React, SwiftUI, HealthKit
 - **Backend and infra:** Spring Boot, PostgreSQL, Firebase, AWS, Docker
 
 ## Get in touch
